@@ -1,0 +1,92 @@
+{
+  "backlog": {
+    "tareas": [
+      {
+        "id": "2025-04-24T03:35:37.854Z",
+        "estado": "pendiente",
+        "nombre": "YUP323",
+        "descripcion": "Haciendo implementacion",
+        "fechaCierre": "2025-04-24"
+      },
+      {
+        "id": "2025-05-14T19:24:37.160Z",
+        "estado": "pendiente",
+        "nombre": "Subir Portfolio",
+        "descripcion": "Terminar de subir proyectos a mi portfolio",
+        "fechaCierre": "2025-05-14"
+      },
+      {
+        "id": "2025-05-14T19:30:09.938Z",
+        "estado": "pendiente",
+        "nombre": "Tarea desde el BackLog",
+        "descripcion": "prueba de tarea",
+        "fechaCierre": "2025-05-15"
+      }
+    ]
+  },
+  "sprintList": {
+    "sprints": [
+      {
+        "id": "b0e3f34b-68c6-49eb-b059-ab251ed81629",
+        "fechaInicio": "2025-03-05",
+        "fechaCierre": "2025-03-11",
+        "nombre": "Sprint I",
+        "tareas": [
+          {
+            "id": "m9k2gvem026hlmpuib47",
+            "nombre": "TArea Definitiva",
+            "descripcion": "TATATATATa",
+            "fechaCierre": "2025-04-26",
+            "estado": "completada"
+          },
+          {
+            "id": "dcec0ad4-31e0-4279-8ccf-72bd1f20b52d",
+            "titulo": "Tarea backlog 1",
+            "descripcion": "tarea backlog",
+            "estado": "pendiente",
+            "fechaLimite": "2025-03-05",
+            "nombre": "JAmonn",
+            "fechaCierre": "2025-04-12"
+          }
+        ]
+      },
+      {
+        "id": "m9vya26rt4skg1ew0b7",
+        "nombre": "Subir Video Final",
+        "fechaInicio": "2025-04-08",
+        "fechaCierre": "2025-05-08",
+        "tareas": [
+          {
+            "id": "2025-05-14T19:50:05.356Z",
+            "estado": "en progreso",
+            "nombre": "Tarea Video Final",
+            "descripcion": "Subo el video a youtube",
+            "fechaCierre": "2025-04-21"
+          }
+        ]
+      },
+      {
+        "id": "maobuby9tvkhxyp8g9",
+        "nombre": "Sprint 3 Prueba editado",
+        "fechaInicio": "2025-05-14",
+        "fechaCierre": "2025-05-30",
+        "tareas": [
+          {
+            "id": "2025-05-13T23:38:50.316Z",
+            "nombre": "Tarea 1 ",
+            "descripcion": "Esta es una tarea ",
+            "fechaCierre": "2025-04-25",
+            "estado": "completada"
+          },
+          {
+            "id": "2025-05-14T19:23:42.676Z",
+            "estado": "pendiente",
+            "nombre": "Tarea desde Sprint 3",
+            "descripcion": "Creacion de tarea nueva",
+            "fechaCierre": "2025-05-14"
+          }
+        ]
+      }
+    ]
+  }
+}
